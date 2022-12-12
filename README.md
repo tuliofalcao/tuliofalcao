@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuliofalcao
 - 👀 I’m interested in python, c++, computer music
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, java and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
